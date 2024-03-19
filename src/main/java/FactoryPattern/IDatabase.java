@@ -1,2 +1,5 @@
-package FactoryPattern;public interface IDatabase {
+package FactoryPattern;
+
+public interface IDatabase {
+    void showConnectionString();
 }
